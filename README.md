@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 --> Cytometry In R
 
-Location: Melbourne
+Location: Melbourne, Australia
 
 My Favorite Fluorophore/Metal-Isotope: Spark Blue 550
 
